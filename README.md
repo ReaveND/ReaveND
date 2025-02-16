@@ -47,17 +47,6 @@
 <br/>
 <hr/>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
- 
-![Snake animation](https://github.com/ReaveND/ReaveND/blob/output/github-contribution-grid-snake.svg)
- 
-<br/><br/><br/>
-</div>
-
-<hr/>
-
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
@@ -66,6 +55,17 @@
 <img width=390 src="https://github-readme-stats.vercel.app/api?username=ReaveND&theme=shadow_red&border_color=FF0000&text_color=EBEADB&ring_color=FF0000&custom_title=ReaveND's+Github+Statistics&icon_color=FF0000&title_color=FF0000&show_icons=true&count_private=true&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReaveND&langs_count=8&layout=compact&theme=shadow_red&title_color=FF0000&custom_title=ReaveND's+Languages&text_color=EBEADB&card_width=400&border_color=FF0000&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+ 
+![Snake animation](https://github.com/ReaveND/ReaveND/blob/output/github-contribution-grid-snake.svg)
+ 
+<br/><br/><br/>
 </div>
 
 <br/><br/>
