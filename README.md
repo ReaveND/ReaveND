@@ -51,7 +51,8 @@
   <h2>🐍 My Contributions 🐍</h2>
   <br>
  
-  ![Snake animation](https://github.com/ReaveND/ReaveND/blob/output/github-contribution-grid-snake2.svg)
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+
   
   
   
