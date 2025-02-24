@@ -52,7 +52,7 @@
   <br>
 
 
-  ![Snake animation](https://raw.githubusercontent.com/ReaveND/ReaveND/output/github-contribution-grid-snake-dark.svg)
+  ![Snake animation](https://raw.githubusercontent.com/ReaveND/ReaveND/output/github-contribution-grid-snake-red.svg)
   
   
   <br/><br/><br/>
