@@ -13,7 +13,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Tech News Portal Website**
+ 🔭 I’m currently working on **Medical Diagnosis System**
  
  🌱 I’m currently learning **AI ML**
 
