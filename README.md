@@ -15,7 +15,7 @@
  
  🔭 I’m currently working on **Medical Diagnosis System**
  
- 🌱 I’m currently learning **AI ML**
+ 🌱 I’m currently learning **MERN**
 
 <!--💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/ReaveND/ReaveND/issues)**-->
 
