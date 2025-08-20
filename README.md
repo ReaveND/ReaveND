@@ -13,7 +13,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Medical Diagnosis System**
+ 🔭 I’m currently working on **ERP System for College**
  
  🌱 I’m currently learning **MERN**
 
