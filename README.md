@@ -1,5 +1,5 @@
 <div id="badges">
-    <img src="https://komarev.com/ghpvc/?username=ReaveND&style=for-the-badge&color=D91818&label=Reavegazers&abbreviated=true&logo=github&logoColor=D91818" alt="" align="right"/><br/>
+    <img src="https://komarev.com/ghpvc/?username=ReaveND&style=for-the-badge&color=D91818&label=Reavegazers&abbreviated=true&" alt="" align="right"/><br/>
 </div>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Jersey+20+Charted&color=F70000&size=50&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There+!+👋;+I'm+Rupak+Sarkar+!;+Nice+to+Meet+You+(●'◡'●);" />
