@@ -1,5 +1,4 @@
 <div id="badges">
-    <img src="https://simpleicons.org/?q=github&modal=icon" height="28" />
     <img src="https://komarev.com/ghpvc/?username=ReaveND&style=for-the-badge&color=D91818&label=Reavegazers&abbreviated=true&" alt="" align="right"/><br/>
 </div>
 <h1 align="center">
