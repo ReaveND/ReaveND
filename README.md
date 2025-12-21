@@ -15,7 +15,7 @@
  
  🔭 I’m currently working on **ERP System for College**
  
- 🌱 I’m currently learning **MERN**
+ 🌱 I’m currently learning **MERN, Next.js**
 
 <!--💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/ReaveND/ReaveND/issues)**-->
 
