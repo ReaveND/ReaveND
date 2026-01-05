@@ -13,9 +13,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **ERP System for College**
+ 🔭 I’m currently working on **Sajjan - Smart Waste Management**
  
- 🌱 I’m currently learning **MERN, Next.js**
+ 🌱 I’m currently learning **MERN, Next.js, React Native, MySQL**
 
 <!--💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/ReaveND/ReaveND/issues)**-->
 
