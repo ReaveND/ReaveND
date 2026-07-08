@@ -13,7 +13,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Sajjan - Smart Waste Management**
+ 🔭 I’m currently working on **HummingBird - Online Chat Application**
  
  🌱 I’m currently learning **MERN, Next.js, React Native, MySQL**
 
